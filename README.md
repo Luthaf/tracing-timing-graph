@@ -1,5 +1,11 @@
 # Tracing timing graph
 
+This has been superseeded for my use by https://github.com/Luthaf/time-graph. 
+I can transfer this code to you if you are interested in the integration with 
+tracing ecosystem.
+
+----
+
 This crate provides a simple way of extracting the number of time a given
 function (or spans inside functions) have been called, how much time have been
 spent in each function/span, and record the full "call-graph" between
